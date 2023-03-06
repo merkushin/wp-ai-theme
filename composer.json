@@ -1,0 +1,20 @@
+{
+    "name": "merkushin/wp-ai-theme",
+    "description": "Theme generated with ChatGPT and Bing",
+    "authors": [
+        {
+            "name": "Dmitry Merkushin",
+            "email": "merkushin@gmail.com"
+        }
+    ],
+    "require": {},
+	"archive": {
+		"exclude": [
+			"/.git",
+			"/.gitignore",
+			"/composer.json",
+			"/preview.webp",
+			"/tailwindcss-config.js"
+		]
+	}
+}
