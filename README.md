@@ -8,5 +8,5 @@ Theme generated with ChatGPT and Bing
 Use composer to generate the theme:
 
 ```bash
-composer archive --format=zip --file=merkushin-wp-ai-theme.zip
+composer archive --format=zip --file=merkushin-wp-ai-theme
 ```
