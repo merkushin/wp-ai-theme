@@ -14,7 +14,9 @@
 			"/.gitignore",
 			"/composer.json",
 			"/preview.webp",
-			"/tailwindcss-config.js"
+			"/tailwindcss-config.js",
+			"/README.md",
+			"/*.zip"
 		]
 	}
 }
